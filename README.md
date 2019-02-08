@@ -47,6 +47,7 @@ answer: "1"
 Input data:
 
 Sentence 1: `He said the foodservice pie business doesn 't fit the company 's long-term growth strategy .`
+
 Sentence 2: `The foodservice pie business does not fit our long-term growth strategy .`
 
 Response:

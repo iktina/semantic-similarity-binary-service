@@ -55,6 +55,7 @@ Response:
 Input data:
 
 Sentence 1: `Magnarelli said Racicot hated the Iraqi regime and looked forward to using his long years of training in the war .`
+
 Sentence 2: `His wife said he was " 100 percent behind George Bush " and looked forward to using his years of training in the war .`
 
 Response:
